@@ -1,7 +1,7 @@
 # hello-world
 opcional
 
-Podemos escribir en ""Markdown""
+Podemos escribir en `Markdown`
 
 ---
 
